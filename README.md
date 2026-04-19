@@ -1,6 +1,6 @@
 # 🛠️ Engenharia de Dados: A Trilha Gratuita
 
-> **"A engenharia de dados não é sobre ferramentas caras — é sobre resolver problemas com eficiência."**
+> **"A engenharia de dados pode ser descrita de diferentes formas, mas olhando para onde a grande maioria das visões convergem podemos defini-la como, a construção de sistemas que processam dados brutos e a parti deles geram dados de alta qualidade, onde esses geram informações de valor."**
 ---
 
 ## 📢 Nossa Missão
