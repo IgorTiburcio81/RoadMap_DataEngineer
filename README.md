@@ -65,7 +65,7 @@ A base de tudo. Antes de escrever uma linha de código, você precisa entender o
 - Arquiteturas: Data Warehouse, Data Lake e Data Lakehouse
 - Linguagens essenciais: SQL, Python e Git
 
-📄 [`introducao-fundamentos.md`](https://claude.ai/chat/modulo-01/introducao-fundamentos.md)
+📄 [`Introdução aos fundamentos da engenharia de dados.md`](https://github.com/IgorTiburcio81/RoadMap_DataEngineer/blob/main/Introdução%20aos%20fundamentos%20da%20engenharia%20de%20dados.md)
 
 ---
 
