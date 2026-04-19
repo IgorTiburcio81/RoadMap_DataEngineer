@@ -173,4 +173,4 @@ Dúvidas, sugestões ou quer trocar uma ideia sobre dados? Abra uma issue ou me 
 
 ---
 
-_Este repositório é e sempre será gratuito.
+Este repositório é e sempre será gratuito.
