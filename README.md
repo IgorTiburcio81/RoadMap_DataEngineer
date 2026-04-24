@@ -11,6 +11,8 @@ Muitas pessoas acreditam que entrar na área de Engenharia de Dados exige invest
 
 Se você está começando do zero ou migrando de carreira, este é o seu ponto de partida.
 
+> 💡 **Dica:** Lembre-se de sempre construir uma sólida base teórica aliada a uma prática constante — ambas são fundamentais e complementares. Teoria sem prática não resolve problemas, e prática sem teoria é apenas apertar botões. Sempre busque conciliar as duas formas de estudo.
+
 ---
 ## 🧭 O que você encontrará aqui
 
@@ -74,7 +76,7 @@ A base de tudo. Antes de escrever uma linha de código, você precisa entender o
 
 ### Módulo 2 — Pipelines, Processamento & Ferramentas
 
-> Status: 🔜 **Em breve**
+> Status: ✅ **Disponível · em expansão**
 
 O coração da Engenharia de Dados: como mover, transformar e orquestrar dados com qualidade e confiabilidade. Conceitos e ferramentas são apresentados juntos, você ira aprende o "porquê" e o "como" no mesmo contexto.
 
@@ -84,6 +86,8 @@ O coração da Engenharia de Dados: como mover, transformar e orquestrar dados c
 |Ingestão|Fontes, conectores e estratégias de carga|Python, APIs, bancos relacionais|
 |Transformação|ETL vs ELT, trade-offs e boas práticas|dbt|
 |Orquestração|Agendamento e dependências entre tarefas|Apache Airflow|
+
+📄 [`Pipelines e Processamento de Dados.md`](https://github.com/IgorTiburcio81/open-the-gate-data-engineering/blob/main/Pipelines%20e%20Processamento.md)
 
 ---
 ### Módulo 3 - Processamento batch & Processamento streaming
