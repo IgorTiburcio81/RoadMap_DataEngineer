@@ -31,7 +31,7 @@ https://www.youtube.com/@univesptv - UNIVESP
 
 O **SQL** é uma linguagem criada para consultar, manipular, inserir e deletar dados em sistemas de bancos relacionais. Criada ainda na década de 70, ela se **mantém** como a ferramenta _core_ no mercado de tecnologia. Mesmo após a ascensão do Big Data, o SQL continua presente em sistemas modernos de dados, como o **BigQuery** (Google Cloud), **Snowflake**, entre outros. Sua relevância atual deve-se à simplicidade e à performance, que geram alta produtividade tanto para engenheiros quanto para analistas.
 
-**Onde aprender de graça???*
+**Onde aprender de graça???**
 
 - https://www.youtube.com/playlist?list=PLvlkVRRKOYFRo651oD0JptVqfQGDvMi3j Curso de SQL do **Téo Calvo**
 ## Python
